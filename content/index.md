@@ -2,4 +2,6 @@
 title: Welcome to Quartz
 ---
 
-Goodbye World
+# Guides
+- [[How to set up Jupyter Notebooks Using WSL and VScode]]
+# Projects:

@@ -1,7 +1,9 @@
 ---
-title: AwkwaBear Home Page
+title: Awkwabear's Digital Garden
 ---
 
-# Guides
+# Guides:
 - [[How to set up Jupyter Notebooks Using WSL and VScode]]
-# Projects:
+# Misc GitHub Projects:
+- [[Quantum Gas Lattice Algorithm Simulator]]
+- 

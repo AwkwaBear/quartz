@@ -1,5 +1,5 @@
 ---
-title: GoodByeWorld
+title: Welcome to Quartz
 ---
 
 Goodbye World

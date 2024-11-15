@@ -1,7 +1,9 @@
 ## Why you would want to set this up
 [Quartz](https://quartz.jzhao.xyz/) by default can be tricky to set up with an existing Obsidian Vault where you would only like to share a single folder to be published. 
 
-Using a symlink, you can keep your quartz git repo (with its thousands of NodeJS files) completely separate from you Obsidian Vault and prevent time wasted syncing and storing all of those files. Quartz has support for this but afaik there is no explicit guide for setting it up so I wrote one here.
+Using a symlink, you can keep your quartz git repo (with its thousands of NodeJS files) completely separate from you Obsidian Vault and prevent time wasted syncing and storing all of those files. This also prevents some issues with files getting lost with git and obsidian sync fighting each other.
+
+Quartz has support for this but afaik there is no explicit guide in the docs for setting it up so I wrote one here.
 
 For example, my Obsidian Vault has tons of other notes in other categories. I would like to only export content from the `Vault/Personal/Digital Garden/content` folder to my hosted quartz page without having to place the entirety of the nodeJS files in `Vault/Personal/Digital Garden` causing Obsidian to sync and keep track of them. 
 ![[content folder location.png]]

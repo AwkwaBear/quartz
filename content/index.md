@@ -1,7 +1,8 @@
 ---
-title: Awkwabear's Digital Garden
+title: Awkwabear's Digital Pile
 ---
 
+![[aquabear_icon.png|250]]
 # Guides:
 - [[How to set up Jupyter Notebooks Using WSL and VScode]]
 # Misc GitHub Projects:

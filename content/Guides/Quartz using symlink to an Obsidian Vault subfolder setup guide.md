@@ -7,6 +7,8 @@ Quartz has support for this but afaik there is no explicit guide in the docs for
 
 For example, my Obsidian Vault has tons of other notes in other categories. I would like to only export content from the `Vault/Personal/Digital Garden/content` folder to my hosted quartz page without having to place the entirety of the nodeJS files in `Vault/Personal/Digital Garden` causing Obsidian to sync and keep track of them. 
 ![[content folder location.png]]
+
+
 I can clone my quartz repo somewhere else like `~/Documents/quartz` and set `/quartz/content` to link to the `Vault/Personal/Digital Garden/content` folder and allow them to sync independently.
 
 ## Setup Guide:
@@ -14,7 +16,7 @@ I can clone my quartz repo somewhere else like `~/Documents/quartz` and set `/qu
 	- if using windows installation is self-explanatory
 	- for Arch Linux you can follow [[Install NodeJS on Arch Linux with nvm]]
 - Fork [quartz](https://github.com/jackyzha0/quartz) to a location OUTSIDE of your Obsidian Vault
-	- Following the [Getting Started](https://quartz.jzhao.xyz/#-get-started) section\
+	- Following the [Getting Started](https://quartz.jzhao.xyz/#-get-started) section
 		- `git clone <your forked repo URL>`
 		- `cd <your forked repo name>`
 		- `npm i`

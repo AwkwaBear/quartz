@@ -88,5 +88,5 @@ This guide is for setting up a Jupyter Notebook to run within VS Code using WSL 
 - You should be able to login and setup GitHub by logging in via VScode by clicking the `Accounts` button on the left-side bar near the bottom (little person icon)
 	- if you get an error about setting a git username and email you can set it with these commands in the VScode terminal
 	- Be sure to replace your actual username and email in the quotations
-		- `git config --global user.name "Your Name"
+		- `git config --global user.name "Your Name"`
 		- `git config --global user.email "you@example.com"`

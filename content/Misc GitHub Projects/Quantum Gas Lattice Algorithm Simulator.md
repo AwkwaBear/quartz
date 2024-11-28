@@ -1,11 +1,8 @@
 - [Github Repo](https://github.com/uh-quantumcomputing/UH_QLGA_Simulator)
-# Quantum Lattice Gas Algorithm Simulator 
 
-NOTE: This project is still in a work-in-progress state. 
+This software simulates quantum lattice gas algorithms using graphics processing units. 
 
-This software aims to simulate quantum lattice gas algorithms using graphics processing units. 
-
-We have included copies of PhD dissertations from Steven Smith and Jasper Taylor in the References folder. These can be used as references for both the modeling methodology and inplementation. 
+We have included copies of PhD dissertations from Steven Smith and Jasper Taylor in the References folder. These can be used as references for both the modeling methodology and implementation. 
 
 ## Prerequisites
 Hardware:  
